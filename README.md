@@ -1,4 +1,2 @@
-# rndproj-bm0vlodf
-
-Random go project for tools.
-
+# rndproj-bm0vlodf\n\nCLI that counts words from stdin.\n
+New-FileDef
