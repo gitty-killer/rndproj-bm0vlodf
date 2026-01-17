@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-bm0vlodf"",
+  ""goal"": ""report generator for data cleanup"",
+  ""language"": ""rust"",
+  ""template"": ""rust-cli""
+}
